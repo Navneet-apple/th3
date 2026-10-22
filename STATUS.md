@@ -1,6 +1,6 @@
 # Project status
 
-This is a clean-room starter, not a recovered or rebuildable copy of the original app.
+The runnable app starter is a clean-room implementation, not a recovered or rebuildable copy of the original app. A separate `recovery/` directory stores the APK and extracted analysis artifacts.
 
 ## Implemented
 
@@ -14,6 +14,6 @@ This is a clean-room starter, not a recovered or rebuildable copy of the origina
 - Remote catalog or schedule API.
 - Persistent storage, user accounts, or sync.
 - Episode sources, video playback, or downloads.
-- Original branding, images, or APK-derived code.
+- Use of original branding, images, or APK-derived code in the clean-room app.
 
-Only independently authored starter files are covered by the repository's MIT license.
+Only independently authored starter files are covered by the repository's MIT license. See the recovery directory's provenance and rights notes for the archived APK materials.
