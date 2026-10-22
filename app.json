@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "th3 clean-room",
+    "slug": "th3-clean-room",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "th3cleanroom",
+    "newArchEnabled": true,
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "android": {
+      "package": "dev.navneet.th3cleanroom",
+      "edgeToEdgeEnabled": true
+    },
+    "ios": {
+      "bundleIdentifier": "dev.navneet.th3cleanroom",
+      "supportsTablet": true
+    }
+  }
+}
